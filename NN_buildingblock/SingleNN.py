@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr  2 11:15:23 2018
+Single NN
 
 @author: xuping
 """
