@@ -6,6 +6,11 @@ Big thanks to Andrew Ng for providing the course and related material! It's a ve
 Models are written in Tensorflow for ConvNN, deepNN and Keras for ResNet. 
 I will upload more models that I learned
 
+### YOLO
+reference: Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi. [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) (2015)
+
+Joseph Redmon, Ali Farhadi.[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) (2016)
+
 ### ResNet50
 Reference: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
