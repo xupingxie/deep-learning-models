@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr  1 16:05:15 2018
+three layer NN building blocks
 
 @author: xuping
 """
